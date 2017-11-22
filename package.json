@@ -1,0 +1,27 @@
+{
+  "name": "english_learning",
+  "version": "1.0.0",
+  "description": "Collect english learning resource for kids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royhuang9/english_learning.git"
+  },
+  "keywords": [
+    "english",
+    "learning",
+    "kids"
+  ],
+  "author": "Roy Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/royhuang9/english_learning/issues"
+  },
+  "homepage": "https://github.com/royhuang9/english_learning#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
